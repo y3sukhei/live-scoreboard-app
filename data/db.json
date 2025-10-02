@@ -1,0 +1,110 @@
+{
+  "teams": [
+    {
+      "id": 2,
+      "name": "Team Yesukhei"
+    },
+    {
+      "id": 1759380627533,
+      "name": "team 1"
+    },
+    {
+      "id": 1759389400083,
+      "name": "team 2"
+    },
+    {
+      "id": 1759390011173,
+      "name": "Team 3"
+    },
+    {
+      "id": 1759390981547,
+      "name": "Team 4"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Game 1"
+    },
+    {
+      "id": 2,
+      "name": "Game 2"
+    },
+    {
+      "id": 1759388845595,
+      "name": "Game 3"
+    }
+  ],
+  "scores": [
+    {
+      "teamId": 1,
+      "gameId": 1,
+      "score": 10
+    },
+    {
+      "teamId": 2,
+      "gameId": 1,
+      "score": 14
+    },
+    {
+      "teamId": 2,
+      "gameId": 2,
+      "score": 8
+    },
+    {
+      "teamId": 1759380627533,
+      "gameId": 1,
+      "score": 7
+    },
+    {
+      "teamId": 1759380627533,
+      "gameId": 2,
+      "score": 5
+    },
+    {
+      "teamId": 1759389400083,
+      "gameId": 2,
+      "score": 0
+    },
+    {
+      "teamId": 2,
+      "gameId": 1759388845595,
+      "score": 0
+    },
+    {
+      "teamId": 1759380627533,
+      "gameId": 1759388845595,
+      "score": 4
+    },
+    {
+      "teamId": 1759390981547,
+      "gameId": 1759388845595,
+      "score": 5
+    },
+    {
+      "teamId": 1759390981547,
+      "gameId": 2,
+      "score": 4
+    },
+    {
+      "teamId": 1759390011173,
+      "gameId": 2,
+      "score": 0
+    },
+    {
+      "teamId": 1759390011173,
+      "gameId": 1,
+      "score": 0
+    },
+    {
+      "teamId": 1759389400083,
+      "gameId": 1,
+      "score": 0
+    },
+    {
+      "teamId": 1759390981547,
+      "gameId": 1,
+      "score": 8
+    }
+  ]
+}
